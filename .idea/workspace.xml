@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="40793a2b-350b-4e78-a23e-910638a16b4a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/ArrayExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample/src/ArrayExampleClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/ArrayExample2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArrayExample2/src/ArrayExample2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/CatExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/src/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatExample/src/CatsPlayground.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/CatsPlayground2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/src/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CatsPlayground2/src/CatsPlayground2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/CheckMonthArt.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/src/Month.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/src/Names.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthArt/src/ScannerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/CheckMonthTheSameLikeWorker.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/src/Info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CheckMonthTheSameLikeWorker/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/Choinka.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/src/Choinka.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Choinka/src/ScannerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/ChoinkaMacierz.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ChoinkaMacierz/src/ChoinkaMacierz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Day1Reminder/Day1Reminder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/DogsPlayground.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/out/production/DogsPlayground/Dog2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/out/production/DogsPlayground/DogsPlaygroundClass.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/src/Dog2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../DogsPlayground/src/DogsPlaygroundClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ForLoopExercise/ForLoopExercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/GuestsDogsThievs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/src/Citizen.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/src/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../GuestsDogsThievs/src/Thief.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfExamples/IfExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../IfVariableRangeExample/IfVariableRangeExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Increment/Increment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/Kalkulator2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/src/Kalkulator2Class.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Kalkulator2/src/Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LongExampleClass/LongExampleClass.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MethodsExample/MethodsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MothodsWithReturn/MothodsWithReturn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/OOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../OOP/src/PointManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ObwodPolaKola/ObwodPolaKola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/Persons.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Persons/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintExamples/PrintExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintMathExample/PrintMathExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PrintTypesLimit/PrintTypesLimit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/ScannerExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerExample/src/ScannerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/ScannerNumberOrder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ScannerNumberOrder/src/ScannerNumberOrderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/StaticExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../StaticExample/src/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SwitchExample/SwitchExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/VarArgsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/src/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../VarArgsExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/WeekOneReminder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WeekOneReminder/src/WeekOneReminderClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../WhileExample/WhileExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/carsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/src/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/src/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../carsExample/src/Wheel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/checkamonth3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/companyExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/src/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../companyExample/src/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hello-world.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/DayOneReminder/DayOneReminder.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/ForLoopExercises/ForLoopExercises.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/HelloWorld/HelloWorld.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/IfExamples/IfExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/IfVariableRangeExample/IfVariableRangeExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/IncrementDecrement/IncrementDecrement.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/LongExample/LongExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/MethodsExample/MethodsExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/MethodsWithReturn/MethodsWithReturn.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/ObwodPoleKola/ObwodPoleKola.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/PrintMathExample/PrintMathExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/PrintTypesLimit/PrintTypesLimit.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/PrintfExamples/PrintfExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/SwitchExample/SwitchExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/VariableTypesOverflowExample/VariableTypesOverflowExample.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/lon_week1/sda_londyn/WhileExamples/WhileExamples.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../week1-19+20-10-2019/week1-19+20-10-2019.iml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1TRZyr4ezraXPPz55fAnt1bOXBZ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="checkamonth3" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="40793a2b-350b-4e78-a23e-910638a16b4a" name="Default Changelist" comment="" />
+      <created>1573425125640</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573425125640</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
